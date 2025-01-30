@@ -6,6 +6,7 @@
 - 📫 How to reach me : thomas.pineau.webdev@protonmail.com
 - 😄 Pronouns: He/Him
 
+- My portfolio : https://rossignolbrigand.github.io/Portfolio
 <!---
 RossignolBrigand/RossignolBrigand is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
